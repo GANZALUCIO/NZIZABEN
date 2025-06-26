@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GANZALUCIO
+# 👋 Hi, I’m @NZIZA
 
 ## 👀 I’m interested in ...
 I’m passionate about software development, data management, and problem-solving. I enjoy exploring new technologies and finding ways to apply them to real-world challenges.
